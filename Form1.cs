@@ -27,14 +27,6 @@ namespace AddWatermark
             textBox1.WordWrap = true;
             textBox1.BorderStyle = 0;
         }
-        private void Form2_Load(object sender, EventArgs e)
-        {
-            textBox1.Multiline = true;
-            textBox1.ReadOnly = true;
-            textBox1.BackColor = this.BackColor;
-            textBox1.WordWrap = true;
-            textBox1.BorderStyle = 0;
-        }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
@@ -64,6 +56,8 @@ namespace AddWatermark
             string fileName = changeValues.ReturnFileName();
             string filePath = changeValues.ReturnFilePath();
 
+            //put coordinates and filepath to CSV
+            //X,Y of top left corner, where code is burned into raster
             csv.AppendLine("X,Y,File");
             csv.AppendLine(pPoint.X.ToString() + ","
                 + pPoint.Y.ToString() +","
