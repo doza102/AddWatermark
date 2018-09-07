@@ -1,0 +1,12 @@
+D:\Dolezal\VisualStudio\AddWatermark\AddWatermark\AddWatermark\bin\Debug\AddWatermark.dll
+D:\Dolezal\VisualStudio\AddWatermark\AddWatermark\AddWatermark\bin\Debug\AddWatermark.pdb
+D:\Dolezal\VisualStudio\AddWatermark\AddWatermark\AddWatermark\bin\Debug\ESRI.ArcGIS.Editor.dll
+D:\Dolezal\VisualStudio\AddWatermark\AddWatermark\AddWatermark\bin\Debug\ESRI.ArcGIS.Editor.xml
+D:\Dolezal\VisualStudio\AddWatermark\AddWatermark\AddWatermark\obj\Debug\AddWatermark.csprojAssemblyReference.cache
+D:\Dolezal\VisualStudio\AddWatermark\AddWatermark\AddWatermark\obj\Debug\AddWatermark.Form1.resources
+D:\Dolezal\VisualStudio\AddWatermark\AddWatermark\AddWatermark\obj\Debug\AddWatermark.csproj.GenerateResource.cache
+D:\Dolezal\VisualStudio\AddWatermark\AddWatermark\AddWatermark\obj\Debug\AddWatermark.csproj.CoreCompileInputs.cache
+D:\Dolezal\VisualStudio\AddWatermark\AddWatermark\AddWatermark\obj\Debug\AddWatermark.csproj.CopyComplete
+D:\Dolezal\VisualStudio\AddWatermark\AddWatermark\AddWatermark\obj\Debug\AddWatermark.dll
+D:\Dolezal\VisualStudio\AddWatermark\AddWatermark\AddWatermark\obj\Debug\AddWatermark.pdb
+D:\Dolezal\VisualStudio\AddWatermark\AddWatermark\AddWatermark\bin\Debug\AddWatermark.esriAddIn
